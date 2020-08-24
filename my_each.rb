@@ -1,5 +1,6 @@
 def my_each(array)
   
+  
 end
 
 # accept an argument of an array
