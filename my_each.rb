@@ -7,7 +7,6 @@ def my_each(array)
     end
     array
 end
-end
 
 # accept an argument of an array
 # use the while loop to iterate over each member of that array
